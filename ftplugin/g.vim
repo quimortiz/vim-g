@@ -1,0 +1,4 @@
+setlocal commentstring=#%s
+
+
+
